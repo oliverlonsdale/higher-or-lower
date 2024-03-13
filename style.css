@@ -1,0 +1,33 @@
+body{
+    font-family: Roboto Slab, sans-serif;
+    background-color: black;
+    color: white;
+    margin: auto;
+}
+
+#higher{
+    font-family: Roboto Slab, sans-serif;
+    height: 100px;
+    width: 100px;
+    font-size: 25px;
+    background-color: gray;
+}
+#lower{
+    font-family: Roboto Slab, sans-serif;
+    height: 100px;
+    width: 100px;
+    font-size: 25px;
+    background-color: gray
+}
+#correct{
+    font-family: Roboto Slab, sans-serif;
+    height: 100px;
+    width: 100px;
+    font-size: 25px;
+    background-color: gray;
+}
+#display{
+    height: 100px;
+    width: 300px;
+    color: black;
+}
